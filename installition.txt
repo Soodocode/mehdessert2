@@ -1,0 +1,6 @@
+npm install
+composer install
+copy .env.example to .env file
+setup database
+php artisan key:generate
+php artisan storage:link

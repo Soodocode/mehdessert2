@@ -1,0 +1,5 @@
+Si product naka list na daan, action add stock, remove stock, sa stock table mag add ug product_id para ma connect sila.
+
+ang ipasa lang niya na inputs is 
+product_id and quantity sa api na mag
+compute ug subtotal and order total.
