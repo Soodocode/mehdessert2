@@ -4,10 +4,10 @@
 @section('content')
             <!-- .site-branding -->
     <div class="uk-cover-container uk-height-large">
-        <img src="images/hero-banner1.f1163de.png" alt="" uk-cover>
+        <img src="images/banner2.jpg" alt="" uk-cover>
         <div class="uk-position-center uk-text-center">
             <article class="uk-article uk-padding" id="article-style">
-                <h1 class="uk-article-title head-title">FRESH, LOCAL & DELIVERED TO YOU!</p>
+                <h1 class="uk-article-title head-title">DELICIOUS & DELIVERED TO YOU!</p>
             </article>
           <a href="#brands" uk-scroll> <button class="uk-button uk-button-default uk-button-large uk-margin uk-visible@s uk-animation-scale-up uk-transform-origin-bottom-right" id="btn-shop-l">Shop</button></a>
           <a href="#brands" uk-scroll> <button class="uk-button uk-button-default uk-button-meduim uk-margin uk-hidden@s uk-animation-scale-up uk-transform-origin-bottom-right" id="btn-shop-lg">Shop</button></a> 
